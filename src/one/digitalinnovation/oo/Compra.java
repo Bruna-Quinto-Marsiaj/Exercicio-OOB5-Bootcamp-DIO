@@ -5,8 +5,8 @@ package one.digitalinnovation.oo;
  */
 class Compra {
 
-     void finalizar(Cupom cupom) {
-
+     void finalizar(Cupom cupom) {// metodo finalizar DEPENDE da classe cupom. dependencia é um tipo de associação assim como agregacao e composicao.
+                                  // ´para saber se é herança ou associação: é um? (herança), usa um? (associação)
      }
 
 }
