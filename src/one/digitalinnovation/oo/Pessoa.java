@@ -5,5 +5,5 @@ package one.digitalinnovation.oo;
  */
 class Pessoa {
 
-    Endereco endereco;
-}
+    Endereco endereco; //associação de composição, se pessoa deixa de existir endereço tbm
+}                      //atributo tipo endereço
