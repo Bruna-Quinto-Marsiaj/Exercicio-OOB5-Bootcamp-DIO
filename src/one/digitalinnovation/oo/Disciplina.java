@@ -5,5 +5,5 @@ package one.digitalinnovation.oo;
  */
 class Disciplina {
 
-    Aluno aluno;
+    Aluno aluno;// um dos atributos de disciplina é a classe aluno. Se disciplina deixa de existir n necessariamente aluno deixa. Ex de agregacao
 }
